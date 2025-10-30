@@ -23,7 +23,7 @@ All math is **integer-only**, and division must use **quotient + remainder** (e.
 
 ```bash
 git clone https://github.com/luisdrg/datamon.git
-cd datamon
+cd Datamon-2.0
 pip install -r requirements.txt
 ```
 
