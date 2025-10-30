@@ -24,8 +24,6 @@ All math is **integer-only**, and division must use **quotient + remainder** (e.
 ```bash
 git clone https://github.com/luisdrg/datamon.git
 cd datamon
-python -m venv venv
-source venv/bin/activate     # or venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
