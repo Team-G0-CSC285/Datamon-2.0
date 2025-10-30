@@ -3,7 +3,7 @@
 
 # 🧠 Datamon — Flask + Supabase Math Game
 
-A web version of the classic **Dataman** toy — built with **Flask**, **Python**, and **Supabase** for our Intro to CS final project.
+A web version of the classic **Dataman** toy — built with **Flask**, **Python**, and **Supabase** for our Datamon project.
 
 ---
 
